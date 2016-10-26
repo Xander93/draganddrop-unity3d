@@ -5,3 +5,8 @@ Demonstrates a drag and drop system with UGUI as shown below:
 HOW TO USE:
 
 Create a new Unity3d Project and drag all of the files into the project you just created.
+If the files are accepted you can open the folder Scenes/Main for an example.
+
+Cheers,
+
+Xander
