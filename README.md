@@ -7,6 +7,8 @@ HOW TO USE:
 Create a new Unity3d Project and drag all of the files into the asset folder of the project you just created.
 If the files are accepted you can open the unity scene file in folder Scenes/Main.unity for an example.
 
+Dont forget to mention me in your credits <3
+
 Cheers,
 
 Xander
